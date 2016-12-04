@@ -20,38 +20,38 @@ p {
 
 .section {
    position: relative;
-   padding: 15px;
+   padding: 10px;
 }
 
 .item {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 10px;
+  right: 10px;
   text-align: center;
   padding: 1px;
   width: 100px;
 }
 
 .description {
-  padding: 15px;
+  padding: 10px;
   padding-top: 30px;
 }
 
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 #chicken {
-  background-color: #000000
+  background-color: #5F9EA0
 }
 #beef {
   background-color: #00AA00
 }
 #suchi {
-  background-color: #0000AA
+  background-color: #FF8C00
 }
 
 /********** Large devices only **********/
