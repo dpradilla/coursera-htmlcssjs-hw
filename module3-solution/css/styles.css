@@ -30,7 +30,10 @@ body {
 /* END HEADER */
 /* HOME PAGE */
 .menu-item {
-	background-color: red;
+	background-color: green;
 	min-height: 1000px;
+}
+.menu-item a {
+  color: red;
 }
 /* END HOME PAGE */
