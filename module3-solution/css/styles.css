@@ -29,8 +29,8 @@ body {
 } 
 /* END HEADER */
 /* HOME PAGE */
-#menu-items div {
-	background-color: green;
+.menu-item {
+	background-color: red;
 	min-height: 1000px;
 }
 /* END HOME PAGE */
